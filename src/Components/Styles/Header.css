@@ -1,0 +1,45 @@
+.navbar-default .navbar-brand {
+    color: white !important;
+}
+.navbar-default .navbar-nav>li>a {
+    color:white !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background-color: rgba(255, 123, 0, 0.76) !important;
+}
+.dropdown-menu {
+    width: 100%;
+}
+.dropdown-menu>li>a:hover {
+    background-color: orange !important;
+    opacity: .8;
+}
+.navbar-default {
+    border-radius: 0;
+}
+img.app-logo {
+    width: 30px;
+    
+    
+    
+}
+.primary-color {
+    background-color: orange !important;
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

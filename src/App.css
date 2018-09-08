@@ -1,0 +1,24 @@
+
+.primary-color {
+  background-color: #6002ee;
+  color: white !important;
+}
+
+.second-color {
+  background: #efe5fd;
+}
+
+.page-panel {
+  border: 0;
+}
+
+.page-panel .panel-heading {
+  border-radius: 0;
+}
+.page-panel .panel-body {
+  padding: 0;
+}
+
+.user-list tr:nth-child(even) {
+  background-color: yellow;
+}
